@@ -12,4 +12,4 @@
 
 // Requirement Fungsi Login:
 // 1. Username dan Password mandatory Field
-// 2Jika input salah Password muncul error message
+// 2. Jika input salah Password muncul error message
